@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Css and Js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omeraltundall](https://github.com/omeraltundall)
-
 - 💬 Ask me about **Front-end Web Designing**
 
 - 📫 How to reach me **altundaomer01.99@gmail.com**
