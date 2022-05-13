@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Altundal</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+<img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" align="center" width="400" alt="Coding">
 
 - 🌱 I’m currently learning **Css and Js**
 
