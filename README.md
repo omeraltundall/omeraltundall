@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Altundal</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width="450" alt="Coding">
+<img src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" align="right" width="450" alt="Coding">
 
 - 🌱 I’m currently learning **React, Next.js**
 
