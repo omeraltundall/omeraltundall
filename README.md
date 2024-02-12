@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" align="right" width="450" alt="Coding">
 
-- 🌱 I’m currently learning **React, Next.js**
+- 🌱 I’m currently improving myself in **React, Next.js**
 
 - 💬 Ask me about **Web Development**
 
